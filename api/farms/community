@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "starter-iron-farm",
+    "name": "Starter Iron Farm",
+    "author": "gui_Arther__0jo",
+    "description": "Simple early-game iron farm.",
+    "category": "Iron",
+    "downloadUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/farmatica-farms/main/community/starter_iron_farm.farmatic",
+    "official": false
+  }
+]

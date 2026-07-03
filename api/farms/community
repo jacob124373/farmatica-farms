@@ -1,11 +1,1 @@
-[
-  {
-    "id": "basic-sugar-cane",
-    "name": "Basic Sugar Cane Farm",
-    "author": "Community",
-    "description": "Simple sugar cane farm.",
-    "category": "Crop",
-    "downloadUrl": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/farmatica-farms/main/schematics/community/basic-sugar-cane.litematic",
-    "official": false
-  }
-]
+[]

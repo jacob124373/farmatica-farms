@@ -1,1 +1,9 @@
-[]
+{
+  "id": "firstfarm",
+  "name": "just_dirt_gng",
+  "author": "gui_Arther__0jo",
+  "description": "simple dirt",
+  "category": "dirt",
+  "downloadUrl": "https://raw.githubusercontent.com/jacob124373/farmatica-farms/main/community/starter_iron_farm.farmatic",
+  "official": true
+}
